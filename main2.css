@@ -1,0 +1,203 @@
+ 
+h1 { color: #000000; }
+#prueba{
+    color:rgb(255, 255, 255);
+}
+#prueba1{
+    margin-left: 10px;    
+    color:rgb(0, 0, 0);
+        text-shadow: 1px  0px 0px rgb(255, 255, 255),
+                     0px  1px 0px rgb(255, 255, 255),
+                    -1px  0px 0px rgb(255, 255, 255),
+                     0px -1px 0px rgb(255, 255, 255);
+}
+*{
+    font-family: "Century Gothic";
+  }
+  header {
+      background-color: #be1e1e;
+    }
+#tablita{
+        margin: 0;
+        padding: 0;
+        height: 900px;
+        background: url(cbum.jpg);   
+        background-size: cover;
+        background-position: center;
+    }
+#tabla{
+    margin-top: 150px;
+    margin-left: 210px;
+}
+
+    #contenido{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(209, 106, 209);
+    margin-top: 0px;
+    margin-left: -15px;
+    padding-bottom: 10px;
+    width: 103%;
+    height: 100%;
+    }
+#pruebardorada{
+    margin-left: 10px;
+}
+#primertexto{
+    margin-left: 20px;
+}
+#imagenPrueba{
+    text-align: center;
+}
+body {
+     margin: 0px;
+      }
+
+
+#links{
+    color:rgba(226, 240, 36, 0.986);
+    }
+
+    #foto1{
+    margin: 10px;
+    
+
+    }
+    #foto2{
+    margin: 10px;
+    
+    }
+    
+    #foto3{
+        margin: 10px;
+        
+    
+        }
+        #foto4{
+        margin: 10px;
+        
+        }
+#videobum{
+    margin-top: -80px;
+}
+.contact_form{  
+    width: 460px; 
+    height: auto;
+    margin: 80px auto;
+    border-radius: 10px;  
+    padding-top: 30px;
+    padding-bottom: 20px;  
+    background-color: #fbfbfb; 
+    padding-left: 3px; 
+  }
+  #gusarap{ color: #000000; }
+  
+  input{
+    background-color: #fbfbfb; 
+    width: 408px; 
+    height: 40px; 
+    border-radius: 5px;  
+    border-style: solid; 
+    border-width: 1px; 
+    border-color: #ab4493; 
+    margin-top: 10px;  
+    padding-left: 10px;
+    margin-bottom: 0px; 
+  }
+  
+  
+  textarea{
+    background-color: #fbfbfb; 
+    width: 405px; 
+    height: 150px; 
+    border-radius: 5px;  
+    border-style: solid; 
+    border-width: 1px; 
+    border-color: #ab4493; 
+    margin-top: 10px;  
+    padding-left: 10px;
+    margin-bottom: -20px; 
+    padding-top: 11px; 
+  }
+  
+  
+  label{
+    display: block; 
+    float: center;  
+  }
+  
+  
+  button{
+    height: 45px; 
+    padding-left: 5px;
+    padding-right: 5px;   
+    margin-bottom: 20px; 
+    margin-top: 10px;   
+    text-transform: uppercase;
+    background-color: #ab4493; 
+    border-color: #ab4493; 
+    border-style: solid; 
+    border-radius: 10px;  
+    width: 420px;   
+    cursor: pointer;
+  }
+  
+  
+  button p{
+    color: #fff; 
+  }
+  
+  
+  span{
+    color: #ab4493; 
+  }
+  
+  
+  .aviso{
+    font-size: 13px;  
+    color: #0e0e0e;  
+  }
+  
+  
+  h1{
+    font-size: 39px;  
+    text-align: letf; 
+    padding-bottom: 0px; 
+    color: #ab4493;
+  }
+  
+  
+  h3{
+    font-size: 16px; 
+    padding-bottom: 30px;
+    color: #0e0e0e;   
+  }
+  
+  
+  p{
+    font-size: 14px; 
+    color: #0e0e0e; 
+  }
+  
+  
+  ::-webkit-input-placeholder {
+   color: #a8a8a8;
+  }
+  
+  
+  ::-webkit-textarea-placeholder {
+   color: #a8a8a8;
+  }
+  
+  
+  .formulario input:focus{
+    outline:0;
+    border: 1px solid #97d848;
+  }
+  
+  
+  .formulario textarea:focus{
+    outline:0;
+    border: 1px solid #97d848;
+  }
+  

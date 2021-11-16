@@ -1,0 +1,87 @@
+ 
+h1 { color: #000000; }
+#prueba{
+    color:rgb(255, 255, 255);
+}
+#prueba1{
+    margin-left: 10px;    
+    color:rgb(0, 0, 0);
+        text-shadow: 1px  0px 0px rgb(255, 255, 255),
+                     0px  1px 0px rgb(255, 255, 255),
+                    -1px  0px 0px rgb(255, 255, 255),
+                     0px -1px 0px rgb(255, 255, 255);
+}
+*{
+    font-family: "Century Gothic";
+  }
+  header {
+      background-color: #be1e1e;
+    }
+#tablita{
+        margin: 0;
+        padding: 0;
+        height: 900px;
+        background: url(cbum.jpg);   
+        background-size: cover;
+        background-position: center;
+        margin-left: -15px;
+        width: 103%;
+    }
+#tabla{
+    margin-top: 150px;
+    margin-left: 210px;
+}
+
+    #contenido{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(209, 106, 209);
+    margin-top: 0px;
+    margin-left: -15px;
+    width: 103%;
+    height: 100%;
+    }
+#pruebardorada{
+    margin-left: 10px;
+}
+#primertexto{
+    margin-left: 20px;
+}
+#imagenPrueba{
+    text-align: center;
+}
+body {
+     margin: 0px;
+      }
+
+
+#links{
+    color:rgba(226, 240, 36, 0.986);
+    }
+
+    #foto1{
+    margin: 10px;
+    
+
+    }
+    #foto2{
+    margin: 10px;
+    
+    }
+    
+    #foto3{
+        margin: 10px;
+        
+    
+        }
+        #foto4{
+        margin: 10px;
+        
+        }
+#videobum{
+    margin-top: -80px;
+}
+#gusalupa{
+  margin-left: -15px;
+  width: 103%;
+}
